@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Lidiia Chicherova 
@@ -13,33 +13,33 @@ sidebar:
 
     # Sidebar links
     email: lychicherova@gmail.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    phone: 
+    website: #blog.webjeda.com #do not add http://
+    linkedin: lidia-chicherova-76634617a
+    github: LidiyaLU
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@lydia_cheerrs'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Russian
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      # - idiom: Spanish
+      #   level: Professional
 
     interests:
-      - item: Climbing
+      - item: Yoga
         link:
 
-      - item: Snowboarding
+      - item: Sci-fi books
         link:
 
       - item: Cooking
@@ -48,143 +48,129 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     I am a developer with strong interest in web technologies and a scientific background. Proficient in analyzing technical and functional requirements throughout a software life cycle. Productive in both team-based and self-managed projects, dedicated to maintaining up-to-date industry knowledge.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bootcamp
+      university: Lighthouse Lab
+      time: 2020 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        An immersive coding bootcamp with JavaScript, React, and other web technologies, Lighthouse Lab uses a fast-paced code-immersive environment for teaching web development technology.
+          - Software architecture
+          - Computer Science Fundamentals
+          - Front-end development
+          - Back-end development
+          - Database&Data Modelling
+          - Automated testing
+    - degree: BSc in Physics
+      university: Kazan State University
+      time: 2009 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Studied the most fundamental aspects of nature, specialized in Optics/Specroscopy
+          - Systematic, rigorous, and flexible problem solving
+          - Qualitative and quantitative/numerical analysis
+          - Laboratory experimental procedures and methodologies
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Volunteer
+      time: January 2020 - July 2020
+      company: Oakpark Retirement Community, Ottawa
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Assisted with special events, game nights and clubs / committees
+    - role: System Analyst
+      time: February 2019 - December 2019
+      company: Funbox, Kazan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Designed, developed and executed test plans, tested RESTful APIs using different tools (Postman, cURL, and SOAP UI), validated test data and cross-checked it against Postgresql and MongoDB
+          - Researched technical specifications and requirements to plan dev cycles in JIRA (Zephyr, XRay), documented and maintained data relationship and mapping between our applications for emergency warning systems
+    - role: Frontend Developer Intern
+      time: October 2018 - December 2019
+      company: GDC, Kazan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Contributed to the codebase of the project (JavaScript/jQuery) and maintained documentation (in Confluence).
+          - Converted design UI mockups (figma) into code for an employee portal and incident management form.
+    - role: Quality Assurance Analyst
+      time: October 2018 - December 2019
+      company: GDC, Kazan
+      details: |
+          - Executed and optimized smoke and regression tests using automation libraries (Selenium, PyTest). Introduced new test design techniques, which improved our debugging processes, and reduced overall testing time
+          - Participated actively in Agile and initiated sprint planning, demo, defect reviews, retrospectives, and other team work. Improved communication within the team and collected feedback as an Agile Champion.
+          - Created test documentation (plans, cases, suites), assisted business users in defining User Acceptance Testing, and ensured        that the products (Fujitsu ERP system, ticket system, ensurance calculation application) meet quality and reliability requirements before they released to customers
+          - Supported users, identified problems using debugging techniques, resulting in shorter ticket queues
+          - Created custom records, fields, workflows, forms and reports in SharePoint
+          
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I've creted several studying project to practice my skills at frontend and backend development.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: TinyURL
+        link: "https://github.com/LidiyaLU/tinyapp"
+        tagline: "Tiny app is a full stack web application built with Node and Express that allows users to shorten long URLs (à la bit.ly)."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Twitter Clone
+        link: "https://github.com/LidiyaLU/tweeter"
+        tagline: "Tweeter is a simple, single-page Twitter clone."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Scheduler
+        link: "https://github.com/LidiyaLU/scheduler"
+        tagline: "simple React app to book meeting"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Kitch
+        link: "https://github.com/omaryrajaa/Kitchen"
+        tagline: "Food catering application where local caterers can set their menus, and customers can order food locally prepared by the caterers."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      # - title: Delta
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Javascript, Node JS, Express JS, jQuery
+        # level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: React
+        # level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        # level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Python & Django
+        # level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Postgresql, MongoDB, MS SQL
+        # level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Selenium, Cypress, Mocha&Chai, Jest
+        # level: 60%
+
+      - name: Git, Postman, JIRA
+        # level: 60%
+      
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
